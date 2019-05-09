@@ -1,0 +1,13 @@
+.middle{
+  height: 100%;
+  width: 33%;
+  display: inline-block;
+}
+.middle-top{
+  height: 10%;
+  border: 1px solid blue;
+}
+.middle-bottom{
+  height: 90%;
+  border: 1px solid purple;
+}

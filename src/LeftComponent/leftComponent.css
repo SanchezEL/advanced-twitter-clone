@@ -1,0 +1,13 @@
+.left{
+  height: 100%;
+  width: 33%;
+  display: inline-block;
+}
+.left-top{
+  height: 50%;
+  border: 1px solid orange;
+}
+.left-bottom{
+  height: 50%;
+  border: 1px solid red;
+}

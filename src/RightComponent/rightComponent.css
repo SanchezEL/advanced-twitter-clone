@@ -1,0 +1,13 @@
+.right{
+  height: 100%;
+  width: 33%;
+  display: inline-block;
+}
+.right-top{
+  height: 60%;
+  border: 1px solid yellow;
+}
+.right-bottom{
+  height: 40%;
+  border: 1px solid pink;
+}
